@@ -1,4 +1,5 @@
 Overview
+
 The Parking Lot System is a command-line-based application implemented in Java that simulates the operations of a parking lot. It allows users to create a parking lot, park cars, leave the parking lot, and retrieve information about parked cars.
 
 Features
@@ -15,6 +16,8 @@ Find Slot Number by Registration Number: Identify the slot number where a car wi
 Find Slot Numbers by Color: Get slot numbers where cars of a particular color are parked.
 
 Check Parking Lot Status: View the current status of the parking lot, including occupied slots and car details.
+
+![Parking Lot System Example](/Users/muskangupta/Desktop.PNG)
 
 How to Use
 Prerequisites
