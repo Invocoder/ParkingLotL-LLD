@@ -19,6 +19,7 @@ Check Parking Lot Status: View the current status of the parking lot, including 
 How to Use
 Prerequisites
 Java Development Kit (JDK) installed on your machine.
+
 A terminal or command prompt to run the Java program.
 
 Steps
