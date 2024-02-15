@@ -31,9 +31,13 @@ java ParkingLotSystem
 Execute Commands:
 Type commands as described in the problem statement example:
 create_parking_lot 6
+
 park KA-01-HH-1234 White
+
 park KA-01-HH-9999 White
+
 park KA-01-BB-0001 Black
+
 leave 4
 status
 Exit the Program:
