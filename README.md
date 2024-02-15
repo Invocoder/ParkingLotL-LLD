@@ -17,7 +17,6 @@ Find Slot Numbers by Color: Get slot numbers where cars of a particular color ar
 
 Check Parking Lot Status: View the current status of the parking lot, including occupied slots and car details.
 
-![Parking Lot System Example](Users/muskangupta/Desktop.png)
 
 How to Use
 Prerequisites
